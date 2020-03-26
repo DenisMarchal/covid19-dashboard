@@ -3898,62 +3898,26 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(styled_jsx_style__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _styles_colors__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../styles/colors */ "./styles/colors.js");
 
 var _jsxFileName = "/Users/jerome/opencovid19-fr/dashboard/pages/_app.js";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
-
 function MyApp(_ref) {
   var Component = _ref.Component,
       pageProps = _ref.pageProps;
   return __jsx(react__WEBPACK_IMPORTED_MODULE_2___default.a.Fragment, null, __jsx(Component, Object(_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({}, pageProps, {
-    className: styled_jsx_style__WEBPACK_IMPORTED_MODULE_1___default.a.dynamic([["1391180925", [_styles_colors__WEBPACK_IMPORTED_MODULE_3__["default"].darkBlue]]]) + " " + (pageProps && pageProps.className != null && pageProps.className || ""),
+    className: "jsx-638331145" + " " + (pageProps && pageProps.className != null && pageProps.className || ""),
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
+      lineNumber: 6
     },
     __self: this
   })), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    id: "1391180925",
-    dynamic: [_styles_colors__WEBPACK_IMPORTED_MODULE_3__["default"].darkBlue],
+    id: "638331145",
     __self: this
-  }, "@font-face{font-family:\"Source Sans Pro\";src:url(\"/fonts/Source Sans Pro/SourceSansPro-Regular.otf\");font-weight:400;}@font-face{font-family:\"Source Sans Pro\";src:url(\"/fonts/Source Sans Pro/SourceSansPro-Bold.otf\");font-weight:800;}@font-face{font-family:\"Source Sans Pro\";src:url(\"/fonts/Source Sans Pro/SourceSansPro-It.otf\");font-style:italic;}@font-face{font-family:\"Marianne\";}src: url('/fonts/Marianne-Regular.woff2') .extra-class{font-size:.5em !important;pointer-events:auto !important;}body{padding:0;margin:0;overflow:auto;font-family:\"Marianne\",Arial;}*{box-sizing:border-box;}html,body{height:100%;position:relative;}a{color:".concat(_styles_colors__WEBPACK_IMPORTED_MODULE_3__["default"].darkBlue, ";}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9qZXJvbWUvb3BlbmNvdmlkMTktZnIvZGFzaGJvYXJkL3BhZ2VzL19hcHAuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBUXlCLEFBR2lDLEFBS1YsQUFNZixBQUcwQixBQUdHLEFBS0ksQUFNQSxBQU1BLEFBTXBCLFVBQ0QsRUFuQ1MsT0FvQ0osR0F6Q2hCLENBNENGLEdBM0JtQyxJQVhqQyxBQWdCOEQsQUFNSCxBQU1GLEdBUXpCLEVBaENoQyxzQkFRQSxLQXlCQSx1QkFSb0IsRUFORixHQU5BLGFBT2xCLEFBTUEsR0FaQSIsImZpbGUiOiIvVXNlcnMvamVyb21lL29wZW5jb3ZpZDE5LWZyL2Rhc2hib2FyZC9wYWdlcy9fYXBwLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0J1xuXG5pbXBvcnQgY29sb3JzIGZyb20gJy4uL3N0eWxlcy9jb2xvcnMnXG5cbmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIE15QXBwKHtDb21wb25lbnQsIHBhZ2VQcm9wc30pIHtcbiAgcmV0dXJuIChcbiAgICA8PlxuICAgICAgPENvbXBvbmVudCB7Li4ucGFnZVByb3BzfSAvPlxuICAgICAgPHN0eWxlIGpzeCBnbG9iYWw+e2BcbiAgICAgICAgKiB7XG4gICAgICAgICAgYm94LXNpemluZzogYm9yZGVyLWJveDtcbiAgICAgICAgfVxuXG4gICAgICAgIGh0bWwsXG4gICAgICAgIGJvZHkge1xuICAgICAgICAgIGhlaWdodDogMTAwJTtcbiAgICAgICAgICBwb3NpdGlvbjogcmVsYXRpdmU7XG4gICAgICAgIH1cblxuICAgICAgICBhIHtcbiAgICAgICAgICBjb2xvcjogJHtjb2xvcnMuZGFya0JsdWV9XG4gICAgICAgIH1cblxuICAgICAgICBAZm9udC1mYWNlIHtcbiAgICAgICAgICBmb250LWZhbWlseTogXCJNYXJpYW5uZVwiO1xuICAgICAgICAgIHNyYzogdXJsKCcvZm9udHMvTWFyaWFubmUtUmVndWxhci53b2ZmMicpXG4gICAgICAgIC5leHRyYS1jbGFzcyB7XG4gICAgICAgICAgZm9udC1zaXplOiAuNWVtICFpbXBvcnRhbnQ7XG4gICAgICAgICAgcG9pbnRlci1ldmVudHM6IGF1dG8gIWltcG9ydGFudDtcbiAgICAgICAgfVxuXG4gICAgICAgIEBmb250LWZhY2Uge1xuICAgICAgICAgIGZvbnQtZmFtaWx5OiBcIlNvdXJjZSBTYW5zIFByb1wiO1xuICAgICAgICAgIHNyYzogdXJsKFwiL2ZvbnRzL1NvdXJjZSBTYW5zIFByby9Tb3VyY2VTYW5zUHJvLVJlZ3VsYXIub3RmXCIpO1xuICAgICAgICAgIGZvbnQtd2VpZ2h0OiA0MDA7XG4gICAgICAgIH1cblxuICAgICAgICBAZm9udC1mYWNlIHtcbiAgICAgICAgICBmb250LWZhbWlseTogXCJTb3VyY2UgU2FucyBQcm9cIjtcbiAgICAgICAgICBzcmM6IHVybChcIi9mb250cy9Tb3VyY2UgU2FucyBQcm8vU291cmNlU2Fuc1Byby1Cb2xkLm90ZlwiKTtcbiAgICAgICAgICBmb250LXdlaWdodDogODAwO1xuICAgICAgICB9XG5cbiAgICAgICAgQGZvbnQtZmFjZSB7XG4gICAgICAgICAgZm9udC1mYW1pbHk6IFwiU291cmNlIFNhbnMgUHJvXCI7XG4gICAgICAgICAgc3JjOiB1cmwoXCIvZm9udHMvU291cmNlIFNhbnMgUHJvL1NvdXJjZVNhbnNQcm8tSXQub3RmXCIpO1xuICAgICAgICAgIGZvbnQtc3R5bGU6IGl0YWxpYztcbiAgICAgICAgfVxuXG4gICAgICAgIGJvZHkge1xuICAgICAgICAgIHBhZGRpbmc6IDA7XG4gICAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgICAgIG92ZXJmbG93OiBhdXRvO1xuICAgICAgICAgIGZvbnQtZmFtaWx5OiBcIk1hcmlhbm5lXCIsIEFyaWFsO1xuICAgICAgICB9XG4gICAgICBgfTwvc3R5bGU+XG4gICAgPC8+XG4gIClcbn1cbiJdfQ== */\n/*@ sourceURL=/Users/jerome/opencovid19-fr/dashboard/pages/_app.js */")));
+  }, "@font-face{font-family:\"Source Sans Pro\";src:url(\"/fonts/Source Sans Pro/SourceSansPro-Regular.otf\");font-weight:400;}@font-face{font-family:\"Source Sans Pro\";src:url(\"/fonts/Source Sans Pro/SourceSansPro-Bold.otf\");font-weight:800;}@font-face{font-family:\"Source Sans Pro\";src:url(\"/fonts/Source Sans Pro/SourceSansPro-It.otf\");font-style:italic;}*{box-sizing:border-box;}html,body{height:100%;position:relative;}.extra-class{font-size:.5em !important;pointer-events:auto !important;}body{padding:0;margin:0;overflow:auto;font-family:\"Source Sans Pro\",Arial,sans-serif;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9qZXJvbWUvb3BlbmNvdmlkMTktZnIvZGFzaGJvYXJkL3BhZ2VzL19hcHAuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBTXlCLEFBR2lDLEFBS1YsQUFLYyxBQUtJLEFBTUEsQUFNQSxBQU1wQixVQUNELEVBNUJTLE9BNkJKLEdBbENoQixJQVVpQyxJQUpqQyxBQVM4RCxBQU1ILEFBTUYsR0FRTix3QkF4Qm5ELHVCQXlCQSxLQVJvQixFQU5GLEdBTkEsYUFPbEIsQUFNQSxHQVpBIiwiZmlsZSI6Ii9Vc2Vycy9qZXJvbWUvb3BlbmNvdmlkMTktZnIvZGFzaGJvYXJkL3BhZ2VzL19hcHAuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnXG5cbmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIE15QXBwKHtDb21wb25lbnQsIHBhZ2VQcm9wc30pIHtcbiAgcmV0dXJuIChcbiAgICA8PlxuICAgICAgPENvbXBvbmVudCB7Li4ucGFnZVByb3BzfSAvPlxuICAgICAgPHN0eWxlIGpzeCBnbG9iYWw+e2BcbiAgICAgICAgKiB7XG4gICAgICAgICAgYm94LXNpemluZzogYm9yZGVyLWJveDtcbiAgICAgICAgfVxuXG4gICAgICAgIGh0bWwsXG4gICAgICAgIGJvZHkge1xuICAgICAgICAgIGhlaWdodDogMTAwJTtcbiAgICAgICAgICBwb3NpdGlvbjogcmVsYXRpdmU7XG4gICAgICAgIH1cblxuICAgICAgICAuZXh0cmEtY2xhc3Mge1xuICAgICAgICAgIGZvbnQtc2l6ZTogLjVlbSAhaW1wb3J0YW50O1xuICAgICAgICAgIHBvaW50ZXItZXZlbnRzOiBhdXRvICFpbXBvcnRhbnQ7XG4gICAgICAgIH1cblxuICAgICAgICBAZm9udC1mYWNlIHtcbiAgICAgICAgICBmb250LWZhbWlseTogXCJTb3VyY2UgU2FucyBQcm9cIjtcbiAgICAgICAgICBzcmM6IHVybChcIi9mb250cy9Tb3VyY2UgU2FucyBQcm8vU291cmNlU2Fuc1Byby1SZWd1bGFyLm90ZlwiKTtcbiAgICAgICAgICBmb250LXdlaWdodDogNDAwO1xuICAgICAgICB9XG5cbiAgICAgICAgQGZvbnQtZmFjZSB7XG4gICAgICAgICAgZm9udC1mYW1pbHk6IFwiU291cmNlIFNhbnMgUHJvXCI7XG4gICAgICAgICAgc3JjOiB1cmwoXCIvZm9udHMvU291cmNlIFNhbnMgUHJvL1NvdXJjZVNhbnNQcm8tQm9sZC5vdGZcIik7XG4gICAgICAgICAgZm9udC13ZWlnaHQ6IDgwMDtcbiAgICAgICAgfVxuXG4gICAgICAgIEBmb250LWZhY2Uge1xuICAgICAgICAgIGZvbnQtZmFtaWx5OiBcIlNvdXJjZSBTYW5zIFByb1wiO1xuICAgICAgICAgIHNyYzogdXJsKFwiL2ZvbnRzL1NvdXJjZSBTYW5zIFByby9Tb3VyY2VTYW5zUHJvLUl0Lm90ZlwiKTtcbiAgICAgICAgICBmb250LXN0eWxlOiBpdGFsaWM7XG4gICAgICAgIH1cblxuICAgICAgICBib2R5IHtcbiAgICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgICAgIG1hcmdpbjogMDtcbiAgICAgICAgICBvdmVyZmxvdzogYXV0bztcbiAgICAgICAgICBmb250LWZhbWlseTogXCJTb3VyY2UgU2FucyBQcm9cIiwgQXJpYWwsIHNhbnMtc2VyaWY7XG4gICAgICAgIH1cbiAgICAgIGB9PC9zdHlsZT5cbiAgICA8Lz5cbiAgKVxufVxuIl19 */\n/*@ sourceURL=/Users/jerome/opencovid19-fr/dashboard/pages/_app.js */"));
 }
-
-/***/ }),
-
-/***/ "./styles/colors.js":
-/*!**************************!*\
-  !*** ./styles/colors.js ***!
-  \**************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ({
-  blue: '#004192',
-  lightBlue: '#7e7ec6',
-  darkBlue: '#000091',
-  lighterBlue: '#4b4bb1',
-  white: '#fff',
-  sand: '#f4f2ea',
-  lighterGrey: '#EBEFF3',
-  lightGrey: '#C9D3DF',
-  grey: '#adb9c9',
-  darkGrey: '#8393A7',
-  darkerGrey: '#53657D',
-  almostBlack: '#26353f',
-  black: '#222',
-  green: '#03BD5B',
-  lightGreen: '#DAF5E7',
-  orange: '#FF9947',
-  lightOrange: '#FFF0E4',
-  red: '#D1335B',
-  lightRed: '#F8E1E7'
-});
 
 /***/ }),
 
